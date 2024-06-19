@@ -5,6 +5,7 @@ Job Portal is a MERN Stack based web app which helps in streamlining the flow of
 
 Directory structure of the web app is as follows:
 
+```
 Job-Connect-Application
 │
 ├── info.txt
@@ -32,7 +33,7 @@ Job-Connect-Application
 │   │   │   │   │   ├── profile
 ├── env
 └── requirements.txt
-
+```
 
 ## Instructions for initializing web app:
 
