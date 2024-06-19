@@ -5,19 +5,18 @@ Job Portal is a MERN Stack based web app which helps in streamlining the flow of
 
 Directory structure of the web app is as follows:
 
-```
-Job-Connect-Portal
+Job-Connect-Application
 │
 ├── info.txt
 ├── PPT
-│   └── Presentation on JobConnectPortal.pptx
+│   └── Presentation on JobConnectApplication.pptx
 │
 ├── Documents
-│   ├── A Project Report on JobConnectPortal.pdf
-│   └── A Project Report on JobConnectPortal.docx
+│   ├── A Project Report on JobConnectApplication.pdf
+│   └── A Project Report on JobConnectApplication.docx
 │
 ├── Source Code
-│   ├── JobConnectPortal
+│   ├── JobConnectApplication
 │   │   ├── frontend
 │   │   │   ├── src
 │   │   │   │   ├── components
@@ -33,7 +32,7 @@ Job-Connect-Portal
 │   │   │   │   │   ├── profile
 ├── env
 └── requirements.txt
-```
+
 
 ## Instructions for initializing web app:
 
