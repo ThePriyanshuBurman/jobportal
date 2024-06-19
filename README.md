@@ -6,12 +6,33 @@ Job Portal is a MERN Stack based web app which helps in streamlining the flow of
 Directory structure of the web app is as follows:
 
 ```
-- backend/
-    - public/
-        - profile/
-        - resume/
-- frontend/
-- README.md
+Job-Connect-Portal
+│
+├── info.txt
+├── PPT
+│   └── Presentation on JobConnectPortal.pptx
+│
+├── Documents
+│   ├── A Project Report on JobConnectPortal.pdf
+│   └── A Project Report on JobConnectPortal.docx
+│
+├── Source Code
+│   ├── JobConnectPortal
+│   │   ├── frontend
+│   │   │   ├── src
+│   │   │   │   ├── components
+│   │   │   │   │   ├── recruiter
+│   │   │   │   ├── lib
+│   │   ├── backend
+│   │   │   ├── lib
+│   │   │   ├── dib
+│   │   │   ├── routes
+│   │   │   │   ├── public
+│   │   │   │   ├── profile
+│   │   │   │   │   ├── resume
+│   │   │   │   │   ├── profile
+├── env
+└── requirements.txt
 ```
 
 ## Instructions for initializing web app:
